@@ -1,0 +1,63 @@
+c:\users\florin\documents\visual studio 2013\Projects\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.exe.config
+c:\users\florin\documents\visual studio 2013\Projects\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.exe
+c:\users\florin\documents\visual studio 2013\Projects\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.pdb
+c:\users\florin\documents\visual studio 2013\Projects\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.csprojResolveAssemblyReference.cache
+c:\users\florin\documents\visual studio 2013\Projects\Functions Plotter\Functions Plotter\obj\Debug\Functions_Plotter.Form1.resources
+c:\users\florin\documents\visual studio 2013\Projects\Functions Plotter\Functions Plotter\obj\Debug\Functions_Plotter.Properties.Resources.resources
+c:\users\florin\documents\visual studio 2013\Projects\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.csproj.GenerateResource.Cache
+c:\users\florin\documents\visual studio 2013\Projects\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.exe
+c:\users\florin\documents\visual studio 2013\Projects\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.pdb
+F:\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.exe.config
+F:\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.exe
+F:\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.pdb
+F:\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.exe
+F:\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.pdb
+F:\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.csprojResolveAssemblyReference.cache
+F:\Functions Plotter\Functions Plotter\obj\Debug\Functions_Plotter.Form1.resources
+F:\Functions Plotter\Functions Plotter\obj\Debug\Functions_Plotter.Properties.Resources.resources
+F:\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.csproj.GenerateResource.Cache
+C:\Users\Florin\Desktop\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.exe.config
+C:\Users\Florin\Desktop\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.exe
+C:\Users\Florin\Desktop\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.pdb
+C:\Users\Florin\Desktop\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.exe
+C:\Users\Florin\Desktop\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.pdb
+C:\Users\Florin\Desktop\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.csprojResolveAssemblyReference.cache
+C:\Users\Florin\Desktop\Functions Plotter\Functions Plotter\obj\Debug\Functions_Plotter.Form1.resources
+C:\Users\Florin\Desktop\Functions Plotter\Functions Plotter\obj\Debug\Functions_Plotter.Properties.Resources.resources
+C:\Users\Florin\Desktop\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.csproj.GenerateResource.Cache
+C:\Users\Emilia\Desktop\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.exe.config
+C:\Users\Emilia\Desktop\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.exe
+C:\Users\Emilia\Desktop\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.pdb
+C:\Users\Emilia\Desktop\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.exe
+C:\Users\Emilia\Desktop\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.pdb
+C:\Users\Emilia\Desktop\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.csprojResolveAssemblyReference.cache
+C:\Users\Emilia\Desktop\Functions Plotter\Functions Plotter\obj\Debug\Functions_Plotter.Form1.resources
+C:\Users\Emilia\Desktop\Functions Plotter\Functions Plotter\obj\Debug\Functions_Plotter.Properties.Resources.resources
+C:\Users\Emilia\Desktop\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.csproj.GenerateResource.Cache
+C:\Users\Florin\Desktop\New folder (2)\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.exe.config
+C:\Users\Florin\Desktop\New folder (2)\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.exe
+C:\Users\Florin\Desktop\New folder (2)\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.pdb
+C:\Users\Florin\Desktop\New folder (2)\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.csprojResolveAssemblyReference.cache
+C:\Users\Florin\Desktop\New folder (2)\Functions Plotter\Functions Plotter\obj\Debug\Functions_Plotter.Form1.resources
+C:\Users\Florin\Desktop\New folder (2)\Functions Plotter\Functions Plotter\obj\Debug\Functions_Plotter.Properties.Resources.resources
+C:\Users\Florin\Desktop\New folder (2)\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.csproj.GenerateResource.Cache
+C:\Users\Florin\Desktop\New folder (2)\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.exe
+C:\Users\Florin\Desktop\New folder (2)\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.pdb
+C:\Users\Emilia\Desktop\New folder (2)sdfsdf\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.exe.config
+C:\Users\Emilia\Desktop\New folder (2)sdfsdf\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.exe
+C:\Users\Emilia\Desktop\New folder (2)sdfsdf\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.pdb
+C:\Users\Emilia\Desktop\New folder (2)sdfsdf\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.exe
+C:\Users\Emilia\Desktop\New folder (2)sdfsdf\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.pdb
+C:\Users\Emilia\Desktop\New folder (2)sdfsdf\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.csprojResolveAssemblyReference.cache
+C:\Users\Emilia\Desktop\New folder (2)sdfsdf\Functions Plotter\Functions Plotter\obj\Debug\Functions_Plotter.Form1.resources
+C:\Users\Emilia\Desktop\New folder (2)sdfsdf\Functions Plotter\Functions Plotter\obj\Debug\Functions_Plotter.Properties.Resources.resources
+C:\Users\Emilia\Desktop\New folder (2)sdfsdf\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.csproj.GenerateResource.Cache
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.exe.config
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.exe
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.pdb
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.exe
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\bin\Debug\Functions Plotter.pdb
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.csprojResolveAssemblyReference.cache
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\obj\Debug\Functions_Plotter.Form1.resources
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\obj\Debug\Functions_Plotter.Properties.Resources.resources
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\obj\Debug\Functions Plotter.csproj.GenerateResource.Cache

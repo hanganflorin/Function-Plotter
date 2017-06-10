@@ -1,0 +1,9 @@
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\bin\Release\Functions Plotter.exe.config
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\bin\Release\Functions Plotter.exe
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\bin\Release\Functions Plotter.pdb
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\obj\Release\Functions Plotter.csprojResolveAssemblyReference.cache
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\obj\Release\Functions_Plotter.Form1.resources
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\obj\Release\Functions_Plotter.Properties.Resources.resources
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\obj\Release\Functions Plotter.csproj.GenerateResource.Cache
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\obj\Release\Functions Plotter.exe
+C:\Users\Florin\Desktop\New folder (2)sdfsdfeferfe\Functions Plotter\Functions Plotter\obj\Release\Functions Plotter.pdb
